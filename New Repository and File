@@ -1,0 +1,23 @@
+# Markdown
+
+#### *Markdown*
+
+#### New Repository
+1. Click on New repository
+2. Name the repository
+3. Describe it
+4. Initialise the repository with a README
+5. Create repository
+
+*New File in Repository*
+1. Go to your repository
+2. Click Add File
+3. Name the file
+4. Edit new file
+5. Commit new file(this is like saving your file)
+
+*Editting File after Commit*
+1. Go to the file
+2. Click "Edit this file" icon
+3. Add a note to the file
+4. Commit changes
