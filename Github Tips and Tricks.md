@@ -1,0 +1,1 @@
+- To do basic writing and formatting syntax in a file other than a README file in a repository, simply append a ".md" extension to the filename.
