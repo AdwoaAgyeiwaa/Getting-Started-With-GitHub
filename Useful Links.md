@@ -1,13 +1,11 @@
-Visit these websites for more information on the following topics:
+Visit these links for more information on writing in markdown under following topics:
 
-###### Markdown emoji markup<br>
-https://gist.github.com/rxaviers/7360908#file-gistfile1-md
+- ###### [Inserting Emoji in Text](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
 
-###### Line breaks in markdown<br>
-https://gist.github.com/shaunlebron/746476e6e7a4d698b373
+- ###### [Line Breaks in Markdown](https://gist.github.com/shaunlebron/746476e6e7a4d698b373)
 
-###### Basic writing and formatting syntax<br>
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- ###### [Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-###### How to make text look like a code
-https://paperhive.org/help/markdown#code
+- ###### [Write Text like a Code](https://paperhive.org/help/markdown#code)
+
+- ###### [Creating Hyperlinks in Markdown](https://anvilproject.org/guides/content/creating-links)
