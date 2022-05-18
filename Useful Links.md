@@ -9,3 +9,5 @@ Visit these links for more information on writing in markdown under following to
 - ###### [Write Text like a Code](https://paperhive.org/help/markdown#code)
 
 - ###### [Creating Hyperlinks in Markdown](https://anvilproject.org/guides/content/creating-links)
+
+- ###### [Drawing Tables in Text](https://www.markdownguide.org/extended-syntax)
